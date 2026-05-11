@@ -55,7 +55,7 @@ The main objective of this project is to provide farmers with an intelligent, ac
 DeepCropAdvisor combines artificial intelligence, deep learning, and natural language processing to create a smart agricultural assistance platform. The system not only identifies crop diseases with high accuracy but also provides actionable treatment recommendations, helping farmers improve productivity and adopt sustainable farming practices.
 
 <p align="center">
-  <img src="https://github.com/user-attachments/assets/04919fd3-2dfe-4049-9014-18e96a4ad0d6" width="220" />
+  <img src="https://github.com/user-attachments/assets/04919fd3-2dfe-4049-9014-18e96a4ad0d6" width="900" />
 </p>
 
 <br>
