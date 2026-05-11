@@ -54,10 +54,26 @@ The main objective of this project is to provide farmers with an intelligent, ac
 ## Conclusion
 DeepCropAdvisor combines artificial intelligence, deep learning, and natural language processing to create a smart agricultural assistance platform. The system not only identifies crop diseases with high accuracy but also provides actionable treatment recommendations, helping farmers improve productivity and adopt sustainable farming practices.
 
-<img width="1600" height="721" alt="image" src="https://github.com/user-attachments/assets/04919fd3-2dfe-4049-9014-18e96a4ad0d6" />
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/04919fd3-2dfe-4049-9014-18e96a4ad0d6" width="220" />
+</p>
 
-<img width="1609" height="734" alt="image" src="https://github.com/user-attachments/assets/4e318a91-c1d3-4354-bf20-7a4200ddf2c3" />
+<br>
 
-<img width="1172" height="708" alt="image" src="https://github.com/user-attachments/assets/15146904-9977-4c9c-9c31-b84aa1d690a9" />
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/4e318a91-c1d3-4354-bf20-7a4200ddf2c3" width="900" />
+</p>
 
-<img width="1006" height="692" alt="image" src="https://github.com/user-attachments/assets/bcb792da-2229-4628-bd6c-3c93743289d0" />
+<br>
+
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/15146904-9977-4c9c-9c31-b84aa1d690a9" width="850" />
+</p>
+
+<br>
+
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/bcb792da-2229-4628-bd6c-3c93743289d0" width="750" />
+</p>
+
+<br><br>
