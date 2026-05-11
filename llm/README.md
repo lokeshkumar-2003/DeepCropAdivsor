@@ -1,4 +1,4 @@
-<img width="1600" height="721" alt="image" src="https://github.com/user-attachments/assets/a42db559-a93e-4e92-ae0a-a5751ab91318" /># DeepCropAdvisor: Region-Aware Crop Disease Detection and Treatment Recommendation
+# DeepCropAdvisor: Region-Aware Crop Disease Detection and Treatment Recommendation
 
 ## Overview
 DeepCropAdvisor is an AI-powered agricultural decision-support system designed to assist farmers in early crop disease diagnosis and effective treatment planning. The system combines deep learning–based image classification with intelligent advisory recommendations to provide both disease detection and actionable treatment guidance.
@@ -54,4 +54,10 @@ The main objective of this project is to provide farmers with an intelligent, ac
 ## Conclusion
 DeepCropAdvisor combines artificial intelligence, deep learning, and natural language processing to create a smart agricultural assistance platform. The system not only identifies crop diseases with high accuracy but also provides actionable treatment recommendations, helping farmers improve productivity and adopt sustainable farming practices.
 
+<img width="1600" height="721" alt="image" src="https://github.com/user-attachments/assets/04919fd3-2dfe-4049-9014-18e96a4ad0d6" />
 
+<img width="1609" height="734" alt="image" src="https://github.com/user-attachments/assets/4e318a91-c1d3-4354-bf20-7a4200ddf2c3" />
+
+<img width="1172" height="708" alt="image" src="https://github.com/user-attachments/assets/15146904-9977-4c9c-9c31-b84aa1d690a9" />
+
+<img width="1006" height="692" alt="image" src="https://github.com/user-attachments/assets/bcb792da-2229-4628-bd6c-3c93743289d0" />
