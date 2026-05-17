@@ -1,0 +1,17 @@
+version: "3.9"
+
+services:
+  backend:
+    build: ./llm
+    container_name: crop_detect_engine
+    restart:
+      unless-stopped
+    ports:
+      - "8000:8000"
+    volumes:
+      - ./llm:/app
+    env_file:
+      - ./llm/.env
+
+   
+

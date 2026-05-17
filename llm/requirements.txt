@@ -8,3 +8,4 @@ pillow
 requests
 python-dotenv
 google-generativeai
+groq
